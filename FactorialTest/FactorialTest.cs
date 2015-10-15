@@ -19,7 +19,7 @@ namespace FactorialTest
         [TestCleanup]
         public void Cleanup()
         {
-            Console.WriteLine("Cleanup done!");
+            Console.WriteLine("Cleanup done!";
         }
 
         [TestMethod]
